@@ -2,6 +2,9 @@
 
 Aplicação web simples para juntar (mesclar) vários arquivos PDF em um único arquivo, direto pelo navegador.
 
+<img width="1250" height="496" alt="Organizador-de-PDFs-07-21-2026_10_54_AM" src="https://github.com/user-attachments/assets/534e09fb-d787-4079-a5d9-897a41f244bd" />
+
+---
 ## Funcionalidades
 
 - Upload de múltiplos arquivos PDF
